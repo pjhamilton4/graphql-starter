@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "jdoe@gmail.com",
+      "age": 35
+    },
+    {
+      "id": "3",
+      "name": "Brian Moore",
+      "email": "bmoore@gmail.com",
+      "age": 32
+    },
+    {
+      "id": "5",
+      "name": "Sue Ellen",
+      "email": "sellen@gmail.com",
+      "age": 38
+    },
+    {
+      "name": "Phil Hamilton",
+      "email": "pjhamilton4@gmail.com",
+      "age": 30,
+      "id": "qLGWpes"
+    },
+    {
+      "name": "John Hamilton",
+      "email": "jh@jh.com",
+      "age": 20,
+      "id": "NTQQOnX"
+    }
+  ]
+}
